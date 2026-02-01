@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! I am Yikai Si.
 
-I am currently an undergraduate student majoring in Physics at Shanghai Jiao Tong University. 
+I am an undergraduate student in the **Zhiyuan Honors Program (Physics Track)** at **Shanghai Jiao Tong University**, currently exploring computational neuroscience under the supervision of Prof. Shanshan Qin[Shanshan Qin](mailto:qinss@sjtu.edu.cn).
 
 ## Research Interest
 
