@@ -30,7 +30,7 @@ My research interests span computational neuroscience and deep learning theory, 
 * **Representational Drift of Artificial Neural Networks under Continual Learning**
   * *Undergraduate Research Assistant, Computational Neuroscience Group* | Supervisor: Shanshan Qin
   * *2025.6 -- Present*
-  * [[GitHub](https://github.com/yksi2023/Representational-Drift-In-Deep-Continual-Learning)]
+  * [[GitHub](https://github.com/yksi2023/cl-drift)]
   * Built sequential-task benchmarks in PyTorch and compared fine-tuning, experience replay, and EWC.
   * Measured layer-wise representational drift on fixed probes to study how learning rules affect forgetting and representation change.
 
