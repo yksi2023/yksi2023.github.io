@@ -23,7 +23,7 @@ My research interests span computational neuroscience and deep learning theory, 
 
 ## Academic Papers
 
-* **[Continual-learning rules shape representational drift](https://arxiv.org/abs/2608.16141)** — Yikai Si and Shanshan Qin. *arXiv:2608.16141*, 2026.
+* **Continual-learning rules shape representational drift** — Yikai Si and Shanshan Qin. *arXiv:2608.16141*, 2026. [arXiv](https://arxiv.org/abs/2608.16141)
 
 ## Research Experience
 
